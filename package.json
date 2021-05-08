@@ -24,7 +24,7 @@
     "react-native-ui-kitten": "3.0.1",
     "react-native-vector-icons": "4.3.0",
     "react-navigation": "1.5.11",
-    "lodash": "4.17.10"
+    "lodash": "4.17.21"
   },
   "devDependencies": {
     "gulp": "3.9.1",
